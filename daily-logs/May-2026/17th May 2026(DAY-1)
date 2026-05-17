@@ -1,0 +1,18 @@
+Today I learnt the basics of the Websites.
+I learnt various topics and terminologies:
+The Browser: The software which shows the websites and all the contents of the website  
+  Web Server: Transfers the contents asked in the requests by the client to the browser  
+  DNS Lookup: Converts the required URL request into IP Address    
+  HTTP Request: It requests the required content and the website from server and provides it to the client
+Web Protocols: Various security and other protocols and features aimed at improving the security of the client and avoiding any malicious attacks. 
+  HTTP/HTTPS: HyperText Transfer Protocol - Aims at securing the data and the information of the website and protiecting it from hackers.
+  TCP/IP: Internet Protocol. Unique to every website. It secures the website. IP Adresses are the addresses of a particular website which is unique to the website and helps in locating it.
+  TLS/SSL
+Databases
+Web Security:
+  Encryption(SSL/TLS)
+  Cookies and Sessions
+Cross-Site Scripting(XSS) and Cross-Site Request Forgery(CSRF)
+API
+JSON
+Difference between HTML and XML
